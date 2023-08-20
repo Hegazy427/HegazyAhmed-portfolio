@@ -304,3 +304,12 @@ font-family: 'Dancing Script', cursive;
 font-size: 20px;
 flex-wrap: wrap;
 }
+
+
+.pitch video {
+  max-width: 100%;
+}
+
+.pitch main{
+  place-items: center;
+}
